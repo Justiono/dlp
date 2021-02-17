@@ -1,0 +1,3 @@
+google-cloud-pubsub
+names
+google-cloud-dlp==1.0.0

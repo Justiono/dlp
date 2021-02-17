@@ -1,0 +1,5 @@
+# Function dependencies, for example:
+# package>=version
+google-cloud-dlp==1.0.0
+google-cloud-pubsub
+requests
